@@ -1,0 +1,19 @@
+.numerito {
+    width: 70px;
+    text-align: center;
+    color:green;
+  
+
+}
+
+                
+.navigation-wrapper4 > .center-column4   >   .numerito  > .myDIV:hover  {
+display: block;
+
+}
+.navigation-wrapper4 > .center-column4   >   .numerito  > .mySTOP:hover  {
+display: block;
+
+}
+
+

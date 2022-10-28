@@ -1,0 +1,545 @@
+
+
+/* Center column styles */
+.navigation-wrapper > .center-column {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper > .center-column > .banner-image {
+  display: flex;
+  justify-content: center;
+  color:#006cbf;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper > .center-column > .banner-image img {
+  width: 100%;
+  height: 100%;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.links-wrapper > .nav-link {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper > .nav-link a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper > .nav-link a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper > .nav-link_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper2 > .center-column2 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper2 > .center-column2 > .banner-image2 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper2 > .center-column2 > .banner-image2 img {
+  width: 100%;
+  height: 100%;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper2 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.links-wrapper2 > .nav-link2 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper2 > .nav-link2 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper2 > .nav-link2 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper2 > .nav-link2_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper3 > .center-column3 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper3 > .center-column3 > .banner-image3 {
+  display: fixed;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper3 > .center-column3 > .banner-image3 img {
+  width: 100%;
+  height: 100%;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper3 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.links-wrapper3 > .nav-link3 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper3 > .nav-link3 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper3 > .nav-link3 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper3 > .nav-link3_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper4 > .center-column4 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper4 > .center-column4 > .banner-image4 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper4 > .center-column4 > .banner-image4 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper4 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.links-wrapper4 > .nav-link4 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper4 > .nav-link4 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper4 > .nav-link4 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper4 > .nav-link4_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper5 > .center-column5 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper5 > .center-column5 > .banner-image5 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper5 > .center-column5 > .banner-image5 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper5 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.links-wrapper5 > .nav-link5 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper5 > .nav-link5 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper5 > .nav-link5 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper5 > .nav-link5_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper6 > .center-column6 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper6 > .center-column6 > .banner-image6 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper6 > .center-column6 > .banner-image6 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper6 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.links-wrapper6 > .nav-link6 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper6 > .nav-link6 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper6 > .nav-link6 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper6 > .nav-link6_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper7 > .center-column7 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper7 > .center-column7 > .banner-image7 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper7 > .center-column7 > .banner-image7 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper7 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.links-wrapper7 > .nav-link7 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper7 > .nav-link7 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper7 > .nav-link7 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper7 > .nav-link7_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper8 > .center-column8 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper8 > .center-column8 > .banner-image8 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper8 > .center-column8 > .banner-image8 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper8 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.links-wrapper8 > .nav-link8 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper8 > .nav-link8 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper8 > .nav-link8 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper8 > .nav-link8_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}
+
+
+
+
+
+
+/* Center column styles */
+.navigation-wrapper9 > .center-column9 {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.navigation-wrapper9 > .center-column9 > .banner-image9 {
+  display: flex;
+  justify-content: center;
+  color:#ffffff;
+  grid-gap: 10px;
+  
+
+}
+
+.navigation-wrapper9 > .center-column9 > .banner-image9 img {
+  width: 80%;
+  height: 100%;
+  display:flex;
+  padding-left :10%;
+  padding-right: 10%;
+}
+
+.links-wrapper9 {
+  display: flex;
+  justify-content:center;
+  align-items: center;
+
+}
+
+.links-wrapper9 > .nav-link9 {
+  width: 70px;
+  text-align: center;
+}
+
+.links-wrapper9 > .nav-link9 a {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #006cbf;
+  text-decoration: none;
+  transition: none;
+}
+
+.links-wrapper9 > .nav-link9 a:hover {
+  color: #cf2e2e;
+  letter-spacing: none;
+  text-decoration: none;
+  transition: none;
+}
+.links-wrapper9 > .nav-link9_chosen {
+  width: 70px;
+  text-align: center;
+  color:#cf2e2e;
+}

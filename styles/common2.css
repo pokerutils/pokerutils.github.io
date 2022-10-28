@@ -1,0 +1,23 @@
+/* h1{
+    color: red;
+    text-decoration: underline;
+}
+P {
+    background-color: red;
+    color: white
+
+} */
+
+/* Common styles */
+body {
+    margin: 15px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #000000;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Roboto Slab', serif;
+    
+    }
+
+    
